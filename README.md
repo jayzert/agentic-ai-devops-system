@@ -45,3 +45,7 @@ Deployment file available in:
 ```bash
 k8s/deployment.yaml
 ```
+
+##Contributors
+#JORDAN ZVINYA
+#FRANCIS KUSEMA
